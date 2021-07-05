@@ -1,0 +1,66 @@
+[CENTER][ATTACH type="full" alt="photo_2021-07-01 12.21.03.jpeg"]5352013[/ATTACH]
+[B][SIZE=7]dotOS Fan Edition[/SIZE][/B]
+[I][B]#FansTime[/B][/I]
+
+[CODE]*
+* Your waranty is still void!
+*
+* We are not responsible for your briked devices by installing custom ROMs or Kernels.
+*
+* You are doing all it on your own risk and responsible.
+*
+* Good day! And please, do not brick your device xD
+*[/CODE]
+
+[SIZE=6]About Project[/SIZE]
+dotOS Fan Edition based on dotOS and AOSP. We are providing cool features missing by dotOS Team. Our rom have lots of customizations and features. Stay with us! #FansTime
+
+[SIZE=6]Features[/SIZE]
+Our exclusive features:
+- Android 12 (S) QS media player styles
+- A lots of clock styles
+- Privacy indicators
+- Oneplus Launcher and few OnePlus apps
+
+Few other cool features:
+- Per app volume control
+- Colored status bar
+- Smart Charging and Smart Cutoff
+- Few useful QS Tiles
+- New permission request dialog design
+
+[SIZE=6]Instructions[/SIZE]
+Clean flash:
+* Your dirty flash instruction here! *
+
+Dirty flash:
+* Your dirty flash instruction here! *
+
+[SIZE=6]Downloads[/SIZE]
+Vanilla edition: [URL='https://sourceforge.net/projects/dotos-fe/files/dot11/device/vanilla/']Click me![/URL]
+Gapps edition: [URL='https://sourceforge.net/projects/dotos-fe/files/dot11/device/gapps/']Click me![/URL]
+
+[SIZE=6]Our Team[/SIZE]
+Alexander Chycherin (SevralT) - Founder/Core Developer
+Zahid M Choudhry (Zahidmgsk) - Core Developer
+
+[SIZE=6]Stay in Touch[/SIZE]
+[URL='https://t.me/dotos_fe_news']Telegram Channel[/URL]
+[URL='https://t.me/dotos_fe_chat']Telegram Group[/URL]
+
+[SIZE=6]Source code[/SIZE]
+All our source code is public! You can contribute it on our GitHub Organization:
+[URL='https://github.com/dotOS-FE']Click me![/URL]
+
+[SIZE=6]Donate[/SIZE]
+If you like our project, you can donate us:
+[URL='https://www.paypal.com/donate?hosted_button_id=7A4AKA4AS3A2L']Click me![/URL][/CENTER]
+
+[LIST]
+[*][LEFT][B]Device Maintainer: [/B][URL='link_to_your_xda_profile']* Your nickname *[/URL][/LEFT]
+[*][LEFT][B]Android version/ROM version: [/B]11.0/v1.0[/LEFT]
+[*][LEFT][B]Security Patch: [/B]5 June 2021[/LEFT]
+[*][LEFT][B]Kernel source code: [/B][URL='link_to_your_kernel_source']Click me![/URL][/LEFT]
+[*][LEFT][B]ROM Status: [/B]* Rom status *[/LEFT]
+[*][LEFT][B]ROM Founder: [/B][URL='https://forum.xda-developers.com/m/sevralt.11167025/']SevralT[/URL][/LEFT]
+[/LIST]
